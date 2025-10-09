@@ -1,6 +1,9 @@
 # SmartTextAnalyzer
 
+
+  
 ![Text Analysis](https://img.shields.io/badge/Language-C%23-blue)
+
 
 **SmartTextAnalyzer** is a simple and useful **console application** that analyzes the text entered by the user and provides key information such as the number of letters, words, and sentences.
 
@@ -20,11 +23,12 @@ This tool is perfect for beginners who want to practice **loops, conditional sta
 
 ## Preview
 
-``Enter your Text: Hello world! This is a test.
+```
+Enter your Text: Hello world! This is a test.
 
 --- Text Analysis ---
 Letters: 21
 Words: 6
 Sentences: 2
 
-Do you want to analyze another text (y/n)?``
+Do you want to analyze another text (y/n)?```
