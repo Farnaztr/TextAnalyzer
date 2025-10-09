@@ -4,12 +4,11 @@
 # SmartTextAnalyzer
 
 
-![Text Analysis](https://img.shields.io/badge/Language-C%23-blue)    <img src="https://img.shields.io/badge/Author-Farnaztr-black" />
+![Text Analysis](https://img.shields.io/badge/Language-C%23-blue)    <img src="https://img.shields.io/badge/Author-Farnaztr-black" />  <img src="https://img.shields.io/github/stars/farnaztr/TextAnalyzer?style=social" />
   
 
 </div>
 
-**SmartTextAnalyzer** is a simple and useful **console application** that analyzes the text entered by the user and provides key information such as the number of letters, words, and sentences.
 
 This tool is perfect for beginners who want to practice **loops, conditional statements, and string manipulation** in C#.
 
