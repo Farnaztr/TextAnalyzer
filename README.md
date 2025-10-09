@@ -4,8 +4,8 @@
 # SmartTextAnalyzer
 
 
+![Text Analysis](https://img.shields.io/badge/Language-C%23-blue)    <img src="https://img.shields.io/badge/Author-Farnaztr-black" />
   
-![Text Analysis](https://img.shields.io/badge/Language-C%23-blue)
 
 </div>
 
