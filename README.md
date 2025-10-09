@@ -1,9 +1,13 @@
+
+<div align="center">
+  
 # SmartTextAnalyzer
 
 
   
 ![Text Analysis](https://img.shields.io/badge/Language-C%23-blue)
 
+</div>
 
 **SmartTextAnalyzer** is a simple and useful **console application** that analyzes the text entered by the user and provides key information such as the number of letters, words, and sentences.
 
