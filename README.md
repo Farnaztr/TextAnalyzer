@@ -34,4 +34,5 @@ Letters: 21
 Words: 6
 Sentences: 2
 
-Do you want to analyze another text (y/n)?```
+Do you want to analyze another text (y/n)?
+```
